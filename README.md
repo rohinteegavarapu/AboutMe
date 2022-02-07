@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 Discord: Robinhood#0881
-Gmail: RobinhoodDev714@gmail.com
+Gmail: Robinhooddev714@gmail.com
