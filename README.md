@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Rohin
-- 👀 I’m interested in coding, math, science, and piano too!
-- 🌱 I’m currently learning piano, Python, Competition Math and Science (Middle School).
-Gmail: rohinteegavarapu@gmail.com
+-  Hi, I’m Rohin
+- 👀 I'm a rising high schoool freshman starting as a machine learning student researcher.
+- 🌱 Check my one (and only) IEEE publication (If you want, not a big fan of it honestly)
+- https://ieeexplore.ieee.org/author/933390967239824
+- Gmail: rohinteegavarapu@gmail.com
+- I'm not even sure if anyone is gonna see this honestly but it's worth a shot :/
